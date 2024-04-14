@@ -14,10 +14,12 @@ body{
     height: 100vh;
     text-align: center;
     color: darkorange;
-    background-image: url(imagenes/image.png);
-    background-repeat: no-repeat;
+    background: url(imagenes/image.png) no-repeat center center/cover; /* unificado */
+    /* si le pongo background-image no me toma las demas propiedades del background */
+    /* background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
+
 }
 
 /* contenedor */
