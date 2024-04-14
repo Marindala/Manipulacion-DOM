@@ -41,6 +41,11 @@ h1{
     margin: 20px 10px;
 }
 
+ul{
+    width: 100%;
+    height: 100%;
+}
+
 .topping{
     font-size: 2rem;
     font-weight: bold;
@@ -51,4 +56,13 @@ h1{
     width: 100%;
     height: 80px;
     margin: 15px 0;
+    color: white;
+}
+
+.fondo-marron{
+    background-color: brown;
+}
+
+.fondo-naranja{
+    background-color: coral;
 }
