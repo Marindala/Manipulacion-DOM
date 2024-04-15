@@ -16,3 +16,11 @@ console.log(toppings[0].id);
 ]
 }
  */
+
+//seleccionar por elementos
+const misToppings = document.getElementsByTagName('li');
+console.log(misToppings.length)
+
+//selector css
+//querySelector
+//querySelectorAll

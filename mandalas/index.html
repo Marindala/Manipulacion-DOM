@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Mandalas</title>
+</head>
+<body>
+    <section class="params">
+        <div class="control">
+           <label for="">Radius</label>
+            <input type="range" min="5" max="30" value="20" id="radius">
+        </div>
+        <div class="control"> 
+          <label for="">Stroke</label>
+          <select name="stroke" id="stroke">
+              <option value="black">Black</option>
+              <option value="white">White</option>
+              <option value="red">Red</option>
+            <option value="blue">Blue</option>
+              <option value="none">None</option>
+          </select>
+        </div>
+      </section>
+      <canvas id="main"></canvas>
+
+<script src="app.js"></script>   
+    
+</body>
+</html>
+
