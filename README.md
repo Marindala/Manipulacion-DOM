@@ -1,3 +1,6 @@
+![image](https://github.com/Marindala/Manipulacion-DOM/assets/95050756/d6d04235-7004-46c1-952a-618f3a791723)
+
+
 ![image](https://github.com/Marindala/Manipulacion-DOM/assets/95050756/ccb6197b-a114-45f0-9e7b-7a323e18bc10)
 
 <!-- me gusta para practicar código
