@@ -24,3 +24,5 @@ console.log(misToppings.length)
 //selector css
 //querySelector
 //querySelectorAll
+const aceitunas = document.querySelector('#aceitunas');
+console.log(aceitunas)
