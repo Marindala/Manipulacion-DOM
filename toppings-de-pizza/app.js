@@ -26,5 +26,9 @@ console.log(misToppings.length)
 //querySelectorAll
 //const aceitunas = document.querySelector('#aceitunas');
 //console.log(aceitunas)
-const aceitunas = document.querySelector('.topping');
-console.log(aceitunas)
+/* const aceitunas = document.querySelector('.topping');
+console.log(aceitunas) */
+/* const aceitunas = document.querySelector('.topping.fondo-naranja');
+console.log(aceitunas) */
+const aceitunas = document.querySelector('.topping.fondo-naranja');
+console.log(typeof aceitunas)
