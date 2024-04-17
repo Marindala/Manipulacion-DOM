@@ -6,7 +6,7 @@ const titulo = document.getElementById('titulo');
 console.log(typeof titulo) /* tagName tipo de etiqueta */
 
 //class
-const toppings = document.getElementsByClassName('topping');
+const toppings = document.getElementsByClassName('toppin');
 console.log(toppings[0].id);
 /* {HTMLCollection(4)[
     "0": {},
@@ -30,5 +30,7 @@ console.log(misToppings.length)
 console.log(aceitunas) */
 /* const aceitunas = document.querySelector('.topping.fondo-naranja');
 console.log(aceitunas) */
-const aceitunas = document.querySelector('.topping.fondo-naranja');
+//const aceitunas = document.querySelector('.topping.fondo-naranja');
+//console.log(typeof aceitunas)
+const aceitunas = document.querySelector('ul li.fondo-naranja');
 console.log(typeof aceitunas)
