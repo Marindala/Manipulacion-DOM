@@ -34,3 +34,7 @@ console.log(aceitunas) */
 //console.log(typeof aceitunas)
 const aceitunas = document.querySelector('ul li.fondo-naranja');
 console.log(typeof aceitunas)
+
+//! por favor atention here
+//?
+//*
