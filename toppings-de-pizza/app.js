@@ -36,7 +36,8 @@ console.log(aceitunas) */
 console.log(typeof aceitunas) */
 
 const aceitunas = document.querySelector('ul li:not(.fondo-marron');
-console.log(typeof aceitunas) //todas las listas menos las listas con clase fondo-marron
+console.log(typeof aceitunas) 
+//todas las listas menos las listas con clase fondo-marron
 
 //! por favor atention here
 //?
