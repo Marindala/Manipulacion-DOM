@@ -43,4 +43,4 @@ console.log(typeof aceitunas)
 //?
 //*
 const toppinsNaranja = document.querySelectorAll('.topping.fondo-naranja');
-console.log(toppinsNaranja);
+console.log(toppinsNaranja); //NodeList(2) //listas de nodos // retorna 2 elementos
