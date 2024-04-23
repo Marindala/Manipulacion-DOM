@@ -6,7 +6,7 @@ const titulo = document.getElementById('titulo');
 console.log(typeof titulo) /* tagName tipo de etiqueta */
 
 //class
-const toppings = document.getElementsByClassName('toppin');
+const toppings = document.getElementsByClassName('topping');
 console.log(toppings[0].id);
 /* {HTMLCollection(4)[
     "0": {},
@@ -42,3 +42,5 @@ console.log(typeof aceitunas)
 //! por favor atention here
 //?
 //*
+const toppinsNaranja = document.querySelectorAll('.topping.fondo-naranja');
+console.log(toppinsNaranja);
