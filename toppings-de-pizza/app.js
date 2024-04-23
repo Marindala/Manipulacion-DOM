@@ -46,4 +46,6 @@ const toppinsNaranja = document.querySelectorAll('.topping.fondo-naranja');
 console.log(toppinsNaranja); //NodeList(2) //listas de nodos // retorna 2 elementos
 
 const primerTopping = document.querySelector('.topping')
-console.log(primerTopping)
+console.log(primerTopping.style) //asi veo todas las propiedades del element
+//Style
+
