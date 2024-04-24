@@ -17,11 +17,11 @@ console.log(toppings[0].id);
 }
  */
 
-//seleccionar por elementos
+//!seleccionar por elementos
 const misToppings = document.getElementsByTagName('li');
 console.log(misToppings.length)
 
-//selector css
+//!selector css
 //querySelector
 //querySelectorAll
 //const aceitunas = document.querySelector('#aceitunas');
@@ -47,10 +47,14 @@ console.log(toppinsNaranja); //NodeList(2) //listas de nodos // retorna 2 elemen
 
 const primerTopping = document.querySelector('.topping')
 //console.log(primerTopping.style) //asi veo todas las propiedades de los elementos propiedades en CamelCase desde ahi hacemos:
-//Style //estilo en linea en html
+//!Style //estilo en linea en html
 console.log(primerTopping.style)
 //primerTopping.style.backgroundColor = 'blue'
 //primerTopping.style.color = 'black'
 //primerTopping.style.textAling = 'center'
+
+//!acceder al texto
+
+
 
 
