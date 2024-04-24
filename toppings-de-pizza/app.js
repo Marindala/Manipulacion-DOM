@@ -47,6 +47,10 @@ console.log(toppinsNaranja); //NodeList(2) //listas de nodos // retorna 2 elemen
 
 const primerTopping = document.querySelector('.topping')
 //console.log(primerTopping.style) //asi veo todas las propiedades de los elementos propiedades en CamelCase desde ahi hacemos:
-//Style
-console.log(primerTopping.style.backgroundColor = 'blue')
+//Style //estilo en linea en html
+console.log(primerTopping.style)
+//primerTopping.style.backgroundColor = 'blue'
+//primerTopping.style.color = 'black'
+//primerTopping.style.textAling = 'center'
+
 
