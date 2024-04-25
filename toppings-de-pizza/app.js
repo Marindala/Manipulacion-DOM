@@ -54,7 +54,9 @@ console.log(primerTopping.style)
 //primerTopping.style.textAling = 'center'
 
 //!acceder al texto
-
+//!listas
+const listaDeToppings = document.getElementById('lista-toppings');
+console.log(listaDeToppings);
 
 
 
