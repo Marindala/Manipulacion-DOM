@@ -57,6 +57,7 @@ console.log(primerTopping.style)
 //!listas
 const listaDeToppings = document.getElementById('lista-toppings');
 console.log(listaDeToppings);
+console.log(listaDeToppings.innerText)
 
 
 
