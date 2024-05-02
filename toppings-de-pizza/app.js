@@ -60,7 +60,7 @@ console.log(listaDeToppings);
 console.log(listaDeToppings.innerText)
 
 //! estamos ready nuevamente
-//Hola estoy configurando
+
 
 
 
