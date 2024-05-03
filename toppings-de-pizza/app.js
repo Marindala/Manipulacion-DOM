@@ -57,7 +57,7 @@ console.log(primerTopping.style)
 //!listas
 const listaDeToppings = document.getElementById('lista-toppings');
 console.log(listaDeToppings);
-console.log(listaDeToppings.innerText)
+console.log(listaDeToppings.innerText) //retorna una cadena de caracteres
 
 //! estamos ready nuevamente
 //* SELECT hay por fin de function the tab
