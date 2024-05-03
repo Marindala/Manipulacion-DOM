@@ -57,7 +57,11 @@ console.log(primerTopping.style)
 //!listas
 const listaDeToppings = document.getElementById('lista-toppings');
 console.log(listaDeToppings);
+console.log('> innerText')
 console.log(listaDeToppings.innerText) //retorna una cadena de caracteres
+
+console.log('> textContent')
+console.log(listaDeToppings.textContent)//aparece incluyendo los espacios que figuran en HTML 
 
 //! estamos ready nuevamente
 //* SELECT hay por fin de function the tab
