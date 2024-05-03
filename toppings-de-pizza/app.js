@@ -5,7 +5,7 @@ console.log(typeof contenedor.innerHTML)/* inner interno */
 const titulo = document.getElementById('titulo');
 console.log(typeof titulo) /* tagName tipo de etiqueta */
 console.log(titulo.innerText)
-titulo.innerText = 'Mis Toppings Favoritos'
+//titulo.innerText = 'Mis Toppings Favoritos' //SE MODIFICA EL TITULO DEL DOM
 
 //class
 const toppings = document.getElementsByClassName('topping');
