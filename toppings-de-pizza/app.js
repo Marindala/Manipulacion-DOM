@@ -60,7 +60,7 @@ console.log(listaDeToppings);
 console.log(listaDeToppings.innerText)
 
 //! estamos ready nuevamente
-
+//* SELECT hay por fin de function the tab
 
 
 
