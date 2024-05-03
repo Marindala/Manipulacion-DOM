@@ -4,6 +4,8 @@ console.log(typeof contenedor.innerHTML)/* inner interno */
 
 const titulo = document.getElementById('titulo');
 console.log(typeof titulo) /* tagName tipo de etiqueta */
+console.log(titulo.innerText)
+titulo.innerText = 'Mis Toppings Favoritos'
 
 //class
 const toppings = document.getElementsByClassName('topping');
@@ -68,6 +70,8 @@ console.log(listaDeToppings.innerHTML)//retorna la estructura del HTML, està bu
 
 //! estamos ready nuevamente
 //* SELECT hay por fin de function the tab
+
+;
 
 
 
