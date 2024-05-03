@@ -63,6 +63,9 @@ console.log(listaDeToppings.innerText) //retorna una cadena de caracteres
 console.log('> textContent')
 console.log(listaDeToppings.textContent)//aparece incluyendo los espacios que figuran en HTML 
 
+console.log('> innerHTML')
+console.log(listaDeToppings.innerHTML)//retorna la estructura del HTML, està buenooo
+
 //! estamos ready nuevamente
 //* SELECT hay por fin de function the tab
 
