@@ -70,8 +70,10 @@ console.log(listaDeToppings.innerHTML)//retorna la estructura del HTML, està bu
 
 //! estamos ready nuevamente
 //* SELECT hay por fin de function the tab
+const primerToppingNoMarron = document.querySelector('ul li:not(.fondo-marron)');
+console.log(primerToppingNoMarron);
 
-;
+
 
 
 
