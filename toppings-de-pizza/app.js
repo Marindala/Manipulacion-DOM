@@ -74,10 +74,12 @@ const primerToppingNoMarron = document.querySelector('ul li:not(.fondo-marron)')
 console.log(primerToppingNoMarron);
 
 const toppingNaranja = document.querySelectorAll('.topping.fondo-naranja');
-console.log(toppingNaranja[0])
-console.log(toppingNaranja[1])
+//console.log(toppingNaranja[0])
+//console.log(toppingNaranja[1])
 
-
+//*tag a
+const enlace = document.getElementsByTagName('a');
+console.log(enlace)
 
 
 
