@@ -73,8 +73,9 @@ console.log(listaDeToppings.innerHTML)//retorna la estructura del HTML, està bu
 const primerToppingNoMarron = document.querySelector('ul li:not(.fondo-marron)');//selecciona primer elemento que coincide
 console.log(primerToppingNoMarron);
 
-const toppingNaranja = document.querySelectorAll('.topping fondo-naranja');
-console.log(toppingNaranja)
+const toppingNaranja = document.querySelectorAll('.topping.fondo-naranja');
+console.log(toppingNaranja[0])
+console.log(toppingNaranja[1])
 
 
 
