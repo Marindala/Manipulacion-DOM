@@ -81,7 +81,7 @@ const toppingNaranja = document.querySelectorAll('.topping.fondo-naranja');
 const enlace = document.getElementsByTagName('a');
 console.log(enlace[0].getAttribute('href'));
 //Eliminar atributo console.log(enlace[0].removeAttribute('href'));
-//Actualizo un elemento console.log(enlace[0].setAttribute('href', 'https://www.freecodecamp.org/'));
+//Actualizo o cambio un elemento console.log(enlace[0].setAttribute('href', 'https://www.freecodecamp.org/'));
 
 
 
