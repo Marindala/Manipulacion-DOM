@@ -86,9 +86,9 @@ console.log(enlace[0].getAttribute('href'));
 
 //!Eliminar o agregar clases
 const secondTopping = document.querySelector('.topping')
-
-secondTopping.classList.add('mi-clase');//agrego a al clase el nombre mi-clase
-console.log(secondTopping.classList) //lista de clases//DomtokenList
+secondTopping.classList.add('texto-verde');
+//secondTopping.classList.add('mi-clase');//agrego a al clase el nombre mi-clase
+console.log(secondTopping.classList); //lista de clases//DomtokenList
 
 
 
