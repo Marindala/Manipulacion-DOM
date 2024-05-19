@@ -84,6 +84,10 @@ console.log(enlace[0].getAttribute('href'));
 //Actualizo o cambio un elemento console.log(enlace[0].setAttribute('href', 'https://www.freecodecamp.org/'));
 //Eliminar atributo console.log(enlace[0].removeAttribute('href'));
 
+//!Eliminar o agregar clases
+const secondTopping = document.querySelector('.topping')
+console.log(secondTopping.classList) //lista de clases
+
 
 
 
