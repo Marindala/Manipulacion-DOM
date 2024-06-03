@@ -52,8 +52,9 @@ const primerTopping = document.querySelector('.topping')
 //!Style //estilo en linea en html
 console.log(primerTopping.style)
 //primerTopping.style.backgroundColor = 'blue'
-//primerTopping.style.color = 'black'
+//primerTopping.style.color = 'black' //color de letra o rgb #000000
 //primerTopping.style.textAling = 'center'
+//primerTopping.style.textTransform = 'uppercase'//estilo en linea en html
 
 //!acceder al texto
 //!listas
