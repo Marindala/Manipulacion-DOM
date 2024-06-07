@@ -91,6 +91,8 @@ secondTopping.classList.add('texto-verde');
 //secondTopping.classList.add('mi-clase');//agrego a al clase el nombre mi-clase
 console.log(secondTopping.classList); //lista de clases//DomtokenList
 
+
+
 //*verificar si existe una clase
 
 
