@@ -92,7 +92,7 @@ const secondTopping = document.querySelector('.topping')
 //secondTopping.classList.add('mi-clase');//agrego a al clase el nombre mi-clase
 //!método contains
 //secondTopping.classList.contains('fondo-marron'); //si posee o no la clase responde con true o false
-secondTopping.classList.remove('fondo-marron')
+secondTopping.classList.remove('topping') //eliminamos clases de forma dinamica
 console.log(secondTopping.classList); //lista de clases//DomtokenList
 //!Eliminar una clase
 
