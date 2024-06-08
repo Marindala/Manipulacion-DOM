@@ -85,17 +85,20 @@ console.log(enlace[0].getAttribute('href'));
 //Actualizo o cambio un elemento console.log(enlace[0].setAttribute('href', 'https://www.freecodecamp.org/'));
 //Eliminar atributo console.log(enlace[0].removeAttribute('href'));
 
+//*verificar si existe una clase
 //!Eliminar o agregar clases
 const secondTopping = document.querySelector('.topping')
 //secondTopping.classList.add('texto-verde'); //change texto to verde
 //secondTopping.classList.add('mi-clase');//agrego a al clase el nombre mi-clase
 //!método contains
-secondTopping.classList.contains('fondo-marron'); //si posee o no la clase responde con true o false
+//secondTopping.classList.contains('fondo-marron'); //si posee o no la clase responde con true o false
+secondTopping.classList.remove('fondo-marron')
 console.log(secondTopping.classList); //lista de clases//DomtokenList
+//!Eliminar una clase
 
 
 
-//*verificar si existe una clase
+
 
 
 
