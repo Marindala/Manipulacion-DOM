@@ -96,6 +96,15 @@ secondTopping.classList.remove('topping') //eliminamos clases de forma dinamica
 console.log(secondTopping.classList); //lista de clases//DomtokenList
 //!Eliminar una clase
 
+//*Crear un Elemento del DOM desde 0
+//?
+const nuevaLista = document.getElementById('nuevaLista');
+const nuevoTopping = document.createElement('li');
+nuevoTopping.classList.add('topping');
+nuevoTopping.classList.add('fondo-naranja');
+nuevoTopping.classList.add('texto-verde');
+nuevoTopping.innerText = 'Nueva Clase';
+
 
 
 
