@@ -100,10 +100,11 @@ console.log(secondTopping.classList); //lista de clases//DomtokenList
 //?
 const nuevaLista = document.getElementById('nuevaLista');
 const nuevoTopping = document.createElement('li');
-nuevoTopping.classList.add('topping');
-nuevoTopping.classList.add('fondo-naranja');
-nuevoTopping.classList.add('texto-verde');
+
+nuevoTopping.classList.add('topping', 'fondo-naranja');
 nuevoTopping.innerText = 'Nueva Clase';
+
+nuevaLista.append(nuevoTopping)
 
 
 
