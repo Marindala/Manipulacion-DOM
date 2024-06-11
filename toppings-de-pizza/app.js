@@ -102,7 +102,7 @@ const nuevaLista = document.getElementById('nuevaLista');
 const nuevoTopping = document.createElement('li');
 
 nuevoTopping.classList.add('topping', 'fondo-naranja');
-nuevoTopping.innerText = 'Nueva Clase';
+nuevoTopping.innerText = 'Nueva Clase';//se agrega a la lista un nuevo topping
 
 nuevaLista.append(nuevoTopping)
 
