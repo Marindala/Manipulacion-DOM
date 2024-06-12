@@ -104,7 +104,7 @@ const nuevoTopping = document.createElement('li');
 nuevoTopping.classList.add('topping', 'fondo-naranja');
 nuevoTopping.innerText = 'Nueva Clase';//se agrega a la lista un nuevo topping
 
-nuevaLista.append(nuevoTopping)
+nuevaLista.append(nuevoTopping)//se agrega al DOM
 
 //nuevoTopping.remove();
 //nuevaLista.remove();
