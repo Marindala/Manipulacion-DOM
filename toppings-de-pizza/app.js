@@ -114,6 +114,7 @@ console.log(nuevoTopping.parentElement.parentElement)//secuencias//obtenemos el 
 //de la lista de topping//obtenemos body
 //console.log(nuevaLista.children) //accedo a los hijos
 //console.log(nuevaLista.firstElementChild)//obtener elementos HTML verificar con typeof
+//console.log(nuevoTopping.previousElementSibling)//previo element hermano
 
 
 
