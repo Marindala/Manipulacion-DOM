@@ -109,7 +109,9 @@ nuevoTopping.innerText = 'Nueva Clase';//se agrega a la lista un nuevo topping
 //nuevoTopping.remove();
 //nuevaLista.remove();//remueve nodo
 //nuevaLista.appendChild(nuevoTopping);//
-console.log(nuevoTopping.parentElement)
+//console.log(nuevoTopping.parentElement)
+console.log(nuevoTopping.parentElement.parentElement)//secuencias//obtenemos el Padre del Padre
+//de la lista de topping//obtenemos body
 
 
 
