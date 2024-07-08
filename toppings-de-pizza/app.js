@@ -113,6 +113,7 @@ nuevoTopping.innerText = 'Nueva Clase';//se agrega a la lista un nuevo topping
 console.log(nuevoTopping.parentElement.parentElement)//secuencias//obtenemos el Padre del Padre
 //de la lista de topping//obtenemos body
 //console.log(nuevaLista.children) //accedo a los hijos
+//console.log(nuevaLista.firstElementChild)//obtener elementos HTML verificar con typeof
 
 
 
