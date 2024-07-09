@@ -118,7 +118,8 @@ console.log(nuevoTopping.parentElement.parentElement)//secuencias//obtenemos el 
 //propiedades para padres, hijos y hermanos.
 
 
-//caaada click un evento, como manejo ese evento
+//!caaada click un evento, como manejo ese evento
+//*Evento cursor evento teclados
 
 
 
