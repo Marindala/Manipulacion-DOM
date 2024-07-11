@@ -121,6 +121,8 @@ console.log(nuevoTopping.parentElement.parentElement)//secuencias//obtenemos el 
 //!caaada click un evento, como manejo ese evento//eventos en el DOM//manejador de ese evento
 //*Evento cursor evento teclados
 //element target
+//evento asociado a una funcion= event listener (llamado)
+
 
 
 
